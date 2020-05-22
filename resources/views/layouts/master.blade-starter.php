@@ -17,7 +17,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
 <body class="hold-transition sidebar-mini">
-<div class="wrapper" id="app">
+<div class="wrapper">
 
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
@@ -59,7 +59,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 			  
             <!-- Message Start -->
             <div class="media">
-              <img src="{{asset('/img/profile.png') }}" alt="User Avatar" class="img-size-50 mr-3 img-circle">
+              <img src="./img/profile.png" alt="User Avatar" class="img-size-50 mr-3 img-circle">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
                   Brad Diesel
